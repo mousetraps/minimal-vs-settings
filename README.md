@@ -1,7 +1,7 @@
 # Minimal Visual Studio Settings
 Collection of settings I used to configure a minimal environment for Node.js & C# development, as shown in our recent [Connect video](https://channel9.msdn.com/events/Visual-Studio/Connect-event-2015/801).
 
-You could certainly make VS even more minimal (VS is *insanely* customizable), but this was good enough for me.
+Note that this is tailored to my own personal preferences - and you could certainly make VS even more minimal (VS is *insanely* customizable) - but hopefully it still proves useful to some folks.
 
 ## VS Settings
 Right click and select save-as to download (or clone the repo yourself). You can import these settings into VS using `Tools > Import and Export settings`
